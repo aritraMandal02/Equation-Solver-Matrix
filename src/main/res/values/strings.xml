@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Equation Solver(Matrix)</string>
+    <string name="text">:: Matrix form is AX = B. ::</string>
+</resources>
